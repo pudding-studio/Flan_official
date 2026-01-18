@@ -24,7 +24,7 @@ Users can view or delete their data within the app at any time, and can complete
 
 ## 4. Privacy Officer
 
-**Contact**: [Email Address]
+**Contact**: puddingstd@gmail.com
 
 ## 5. Changes to Privacy Policy
 

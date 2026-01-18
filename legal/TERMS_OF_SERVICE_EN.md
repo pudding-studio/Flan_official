@@ -122,6 +122,6 @@ The operator may restrict or suspend service use if users violate these Terms or
 
 1. Matters not specified in these Terms are governed by applicable laws and customs.
 2. Operator contact:
-   - Email: [Email Address]
+   - Email: puddingstd@gmail.com
 
 **Effective Date**: January 19, 2026
