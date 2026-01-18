@@ -66,7 +66,6 @@ Users must not engage in the following:
 
 1. Copyright and intellectual property rights to the App and Service belong to the operator.
 2. Copyright to content created by users within the Service belongs to the users.
-3. Users may not use information obtained through the Service for commercial purposes or allow third parties to use it without the operator's prior written consent.
 
 ## Article 9 (Third-Party API Usage)
 
